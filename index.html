@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Calculadora</title>
+    <script type="text/javascript" src="./script.js" defer=""></script>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="calculator">
+        <div class="display">
+          <span id="count"></span>
+          <span id="value">0</span>
+        </div>
+        <div class="keys">
+          <div class="especial-keys">
+            <button id="plus">+</button>
+            <button id="minus">-</button>
+            <button id="multiply">x</button>
+            <button id="divide">÷</button>
+          </div>
+          <div class="others-keys">
+            <div class="simple-keys">
+              <button class="number">7</button>
+              <button class="number">8</button>
+              <button class="number">9</button>
+              <button class="number">4</button>
+              <button class="number">5</button>
+              <button class="number">6</button>
+              <button class="number">1</button>
+              <button class="number">2</button>
+              <button class="number">3</button>
+              <button class="number">0</button>
+              <button id="point">.</button>
+              <button id="back">C</button>
+            </div>
+            <div class="equal">
+              <button id="equal">=</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/decimal.js@10.4.3/decimal.js"></script>
+  </body>
+
+</html>
