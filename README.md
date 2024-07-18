@@ -2,33 +2,28 @@
   <img src="calculator-preview.png" alt="Calculadora Simples em JavaScript">
 </p>
 
-# Calculadora Simples em JavaScript
+# A simple calculator
 
-Bem-vindo(a)! Este projeto oferece uma calculadora leve e intuitiva, desenvolvida em JavaScript puro, evitando o uso da função `eval`. Desfrute de uma experiência de usuário limpa e operações matemáticas básicas em um único lugar.
+This project offer a calculator in JavaScript that performs basic arithmetic operations (addition, subtraction, multiplication, division) without using 'eval'.
 
-## Recursos 🚀
+## Resources 🚀
 
-- **Operações Matemáticas Básicas:** Adição, subtração, multiplicação e divisão.
-- **Interface de Usuário Amigável:** Design simples e intuitivo para facilitar o uso.
-- **Tratamento de Erros:** Lidamos com situações especiais, como divisão por zero, garantindo uma experiência robusta.
+- **Basic Arithmetic Operations:** addition, subtraction, multiplication and division.
+- **Friendly user interface:** simple and intuitive design.
 
-## Como Usar 🧮
+## How to use 🧮
 
-1. **Clone o Repositório:**
+1. **Clone repository:**
    ```bash
    git clone https://github.com/kiteyz/simple-calculator.git
     ```
    
-2. **Abra o Arquivo HTML:**
-Abra o arquivo index.html em seu navegador web favorito.
+2. **Open HTML file:**
+Open the `index.html` file in your browser.
 
-3. **Faça as Contas!**
-Experimente diferentes operações matemáticas e descubra como é fácil usar a calculadora.
+3. **All ready!**
+Try different arithmetic operations and discover how easy it is to use the calculator.
 
-## Contribuição 💡
+## License 📝
 
-Sua contribuição é bem-vinda! Se você encontrar problemas, tiver ideias para melhorias ou quiser adicionar recursos, fique à vontade para abrir uma issue ou enviar um pull request. Juntos, podemos tornar esta calculadora ainda mais incrível!
-
-## Licença 📝
-
-Este projeto está licenciado sob a Licença MIT, garantindo liberdade para usar, modificar e distribuir conforme suas necessidades.
+This project is licensed under the MIT License, guaranteeing freedom to use, modify and distribute according to your needs.
